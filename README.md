@@ -2,7 +2,7 @@
 
 Prerequisites:
 1. Node version 10+
-2. Redis version 3+
+2. Redis Server version 5+
 3. Internet Connection
 
 Steps to start Application
