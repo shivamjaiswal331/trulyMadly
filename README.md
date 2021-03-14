@@ -1,6 +1,6 @@
 # trulyMadly
 
-Prereqisites:
+Prerequisites:
 1. Node version 10+
 2. Redis version 3+
 3. Internet Connection
